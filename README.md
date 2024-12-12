@@ -30,8 +30,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/NV-Bite/cc-api.git
+   cd cc-api
 
 2. Install the dependencies:
     npm install
