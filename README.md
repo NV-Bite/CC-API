@@ -4,12 +4,16 @@ A brief description of your project.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [API](#api)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+- [Tools](#tools)
+- [API Documentation](#api)
+
+## Tools
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Node.js](https://nodejs.org/en) 
+- [Firebase](https://firebase.google.com/)
+- [Docker](https://www.docker.com/)
+- [Postman](https://www.postman.com/)
+
 
 ## Installation
 
@@ -31,4 +35,7 @@ Make sure you have the following installed:
 2. Install the dependencies:
     npm install
 3. to run the server:
-    with 
+    with
+
+## API Documentation
+We published our API documentation from Postman, you can view it [here](https://documenter.getpostman.com/view/39512380/2sAYHwL5qp)
