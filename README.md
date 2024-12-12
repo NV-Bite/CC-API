@@ -5,7 +5,7 @@ A brief description of your project.
 ## Table of Contents
 - [Installation](#installation)
 - [Tools](#tools)
-- [API Documentation](#api)
+- [API Documentation](#apidocumentation)
 
 ## Tools
 - [Google Cloud Platform](https://cloud.google.com/)
@@ -39,3 +39,6 @@ Make sure you have the following installed:
 
 ## API Documentation
 We published our API documentation from Postman, you can view it [here](https://documenter.getpostman.com/view/39512380/2sAYHwL5qp)
+
+# Cloud Architecture
+
