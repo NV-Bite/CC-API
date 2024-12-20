@@ -2,8 +2,6 @@
 
 This repository contains the API layer and the cloud infrastructure, which work together to support all the main features and functionalities of the project, ensuring it runs smoothly and efficiently.
 
----
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -17,8 +15,6 @@ This repository contains the API layer and the cloud infrastructure, which work 
 - [Cloud Architecture](#cloud-architecture)
 - [License](#license)
 
----
-
 ## Introduction
 
 NV-Bite leverages machine learning, cloud computing, and modern web development tools to build a sustainable application. The main goals are:
@@ -27,16 +23,12 @@ NV-Bite leverages machine learning, cloud computing, and modern web development 
 - Integrating with cloud platforms for scalability and performance.
 - Delivering accessible APIs for seamless integration.
 
----
-
 ## Features
 
 - **Machine Learning Integration**: APIs for predictive analytics based on food carbon footprints.
 - **Cloud Deployment**: Hosted on Google Cloud Platform for scalability.
 - **Comprehensive Documentation**: API usage guide available via Postman.
 - **Modern Tools**: Built with industry-standard technologies like Node.js, Docker, and Firebase.
-
----
 
 ## Installation
 
@@ -72,8 +64,6 @@ Make sure the following tools are installed:
 
 4. The server will start on `http://localhost:3000` by default.
 
----
-
 ## Tools
 
 The following tools and platforms are used in this project:
@@ -84,9 +74,9 @@ The following tools and platforms are used in this project:
 - [Docker](https://www.docker.com/): Containerization for consistent deployments.
 - [Postman](https://www.postman.com/): API testing and documentation.
 
----
-
 ## API Documentation
+
+We published our API documentation from Postman, you can view it [here](https://documenter.getpostman.com/view/39512380/2sAYHwL5qp)
 
 ### Authentication
 
@@ -157,9 +147,6 @@ The following tools and platforms are used in this project:
     "photoUrl": "https://www.example.com/photo.jpg"
   }
   ```
-
----
-
 ## Cloud Architecture
 
 The NV-Bite application is designed with a scalable and efficient cloud architecture. Below is the architecture diagram:
@@ -174,10 +161,7 @@ The NV-Bite application is designed with a scalable and efficient cloud architec
 - **Storage**: Data stored on Google Cloud Storage and Firebase for flexibility and real-time updates.
 - **Networking**: Managed networking through GCP for secure and optimized communication.
 
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
